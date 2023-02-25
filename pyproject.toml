@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "notebooks"
+version = "0.1.0"
+description = "Repo for publishing notebooks"
+authors = ["Martin Mokry <martin-kokos@users.noreply.github.com>"]
+license = "GNU-LGPL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyterlab = "^3.6.1"
+pandas = "^1.5.3"
+tqdm = "^4.64.1"
+ipywidgets = "^8.0.4"
+jupyter-nbextensions-configurator = "^0.6.1"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.1.0"
+line-profiler = "^4.0.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
