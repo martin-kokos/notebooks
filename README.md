@@ -10,4 +10,5 @@ An assortment of Jupyter notebooks
 
 ## Fun
 - [Simpson's paradox](https://github.com/martin-kokos/notebooks/blob/main/notebooks/simpsons_paradox.ipynb) (pandas)
-- [COmpress scatered python on in an image](https://github.com/martin-kokos/notebooks/blob/main/notebooks/decode_codeimage.ipynb) (OpenCV, Numpy)
+- [Compress scatered python on in an image](https://github.com/martin-kokos/notebooks/blob/main/notebooks/decode_codeimage.ipynb) (OpenCV, Numpy)
+- [ETH tx fees](https://github.com/martin-kokos/notebooks/blob/main/notebooks/ETH_fees_from_BQ.ipynb) (BigQuery, Colab)
