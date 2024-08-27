@@ -5,7 +5,7 @@ An assortment of Jupyter notebooks
 ## NLP
 - [Topic anaylsis](https://github.com/martin-kokos/notebooks/blob/main/notebooks/topic_analysis.ipynb) (Spacy, gensim)
 - [Name classification](https://github.com/martin-kokos/notebooks/blob/main/notebooks/nlp/nat_names-lstm.ipynb) (pytorch)
-- [seq2seq language translation (without attention)](https://github.com/martin-kokos/notebooks/blob/main/notebooks/nlp/translation.ipynb) (pytorch)
+- [seq2seq language translation (without attention)](https://github.com/martin-kokos/notebooks/blob/main/nlp/translation.ipynb) (pytorch)
 
 ## Image processing
 - [Outer countour](https://github.com/martin-kokos/notebooks/blob/main/notebooks/logo_countours.ipynb) (OpenCV)
